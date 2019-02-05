@@ -9,3 +9,4 @@ Given a "redline" PDF and a set of images, produce a single page landing site fo
 ---
 * Opacity should really be only applied to text and images, and not the black backgrounds.
 * Had to add a text shadow to the font to make it look as thick as the redline doc.  Normal font weight wans't enough, but it looks a bit funky.
+* Locations background image isn't aligned the same as the example.
